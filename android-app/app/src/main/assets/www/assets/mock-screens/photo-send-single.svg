@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff8dc"/>
+      <stop offset="100%" stop-color="#ffe97a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="90" y="140" width="900" height="1640" rx="56" fill="#ffffff" stroke="#ddd3a0" stroke-width="6"/>
+  <rect x="140" y="220" width="800" height="120" rx="22" fill="#f6f7fb"/>
+  <text x="170" y="295" font-size="52" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#222">사진 1장 보내기</text>
+  <rect x="140" y="420" width="800" height="270" rx="26" fill="#eaf0ff"/>
+  <text x="180" y="510" font-size="44" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#243768">더하기 버튼을 누르세요</text>
+  <text x="180" y="575" font-size="38" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif" fill="#243768">앨범에서 사진 1장 선택</text>
+  <rect x="140" y="760" width="370" height="170" rx="24" fill="#f4f6fa" stroke="#d6deed" stroke-width="4"/>
+  <rect x="570" y="760" width="370" height="170" rx="24" fill="#f4f6fa" stroke="#d6deed" stroke-width="4"/>
+  <text x="250" y="860" font-size="84" font-family="Apple SD Gothic Neo, sans-serif" fill="#596275">+</text>
+  <text x="670" y="855" font-size="60" font-family="Apple SD Gothic Neo, sans-serif" fill="#596275">앨범</text>
+  <rect x="140" y="1520" width="800" height="170" rx="30" fill="#4c68ff"/>
+  <text x="430" y="1628" font-size="62" font-family="Apple SD Gothic Neo, sans-serif" fill="#fff">보내기</text>
+</svg>

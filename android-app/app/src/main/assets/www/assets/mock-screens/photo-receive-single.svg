@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#eef8ff"/><stop offset="100%" stop-color="#cfe8ff"/></linearGradient></defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="90" y="140" width="900" height="1640" rx="56" fill="#fff" stroke="#b9d6ef" stroke-width="6"/>
+  <text x="160" y="300" font-size="52" font-family="Apple SD Gothic Neo, sans-serif" fill="#1f2f45">사진 1장 받기</text>
+  <rect x="140" y="420" width="800" height="520" rx="26" fill="#f7fbff" stroke="#d3e7f6" stroke-width="4"/>
+  <text x="190" y="530" font-size="44" font-family="Apple SD Gothic Neo, sans-serif" fill="#2a4d73">받은 사진을 눌러 크게 보기</text>
+  <text x="190" y="610" font-size="38" font-family="Apple SD Gothic Neo, sans-serif" fill="#2a4d73">저장 메뉴를 눌러 갤러리에 저장</text>
+  <rect x="140" y="1120" width="800" height="170" rx="30" fill="#1e90ff"/>
+  <text x="455" y="1228" font-size="62" font-family="Apple SD Gothic Neo, sans-serif" fill="#fff">저장</text>
+</svg>

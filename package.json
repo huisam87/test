@@ -1,0 +1,9 @@
+{
+  "name": "kakao-practice-offline",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Offline KakaoTalk media practice app",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

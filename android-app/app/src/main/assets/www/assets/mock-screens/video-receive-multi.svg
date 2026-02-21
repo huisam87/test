@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f0fff2"/><stop offset="100%" stop-color="#bff0c8"/></linearGradient></defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="90" y="140" width="900" height="1640" rx="56" fill="#fff" stroke="#97d7aa" stroke-width="6"/>
+  <text x="140" y="300" font-size="52" font-family="Apple SD Gothic Neo, sans-serif" fill="#225738">동영상 여러개 받기</text>
+  <g transform="translate(140,430)">
+    <rect width="240" height="180" rx="18" fill="#2f3f35"/><polygon points="220,80 220,120 255,100" fill="#fff"/>
+    <rect x="280" width="240" height="180" rx="18" fill="#2f3f35"/><polygon points="500,80 500,120 535,100" fill="#fff"/>
+    <rect x="560" width="240" height="180" rx="18" fill="#2f3f35"/><polygon points="780,80 780,120 815,100" fill="#fff"/>
+  </g>
+  <text x="165" y="760" font-size="40" font-family="Apple SD Gothic Neo, sans-serif" fill="#2e5d3e">전체 저장으로 여러 동영상을 한 번에</text>
+  <rect x="140" y="1500" width="800" height="170" rx="30" fill="#1f9d55"/>
+  <text x="380" y="1608" font-size="62" font-family="Apple SD Gothic Neo, sans-serif" fill="#fff">전체 저장</text>
+</svg>
